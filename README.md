@@ -1,6 +1,5 @@
 # 📊 PhonePe Transaction Insights Dashboard
 
-![Dashboard Preview](https://github.com/Mohammad-Islam2004/PhonePe/blob/main/assets/dashboard_img.png)
 
 ## 📌 Project Overview
 
